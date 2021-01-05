@@ -1,0 +1,13 @@
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.exe
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.deps.json
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.runtimeconfig.json
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.runtimeconfig.dev.json
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.dll
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\bin\Debug\netcoreapp3.1\PeerToPeerTextCommunication.pdb
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.csprojAssemblyReference.cache
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.AssemblyInfoInputs.cache
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.AssemblyInfo.cs
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.csproj.CoreCompileInputs.cache
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.dll
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.pdb
+C:\Users\akkar\source\repos\peer-to-peer-text-communication\peer-to-peer-text-communication\obj\Debug\netcoreapp3.1\PeerToPeerTextCommunication.genruntimeconfig.cache

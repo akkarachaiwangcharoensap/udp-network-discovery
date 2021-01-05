@@ -1,0 +1,13 @@
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.exe
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.deps.json
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.runtimeconfig.json
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.runtimeconfig.dev.json
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.dll
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\bin\Debug\netcoreapp3.1\udp-network-discovery.pdb
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.csprojAssemblyReference.cache
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.AssemblyInfoInputs.cache
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.AssemblyInfo.cs
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.csproj.CoreCompileInputs.cache
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.dll
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.pdb
+C:\Users\akkar\source\repos\udp-network-discovery\udp-network-discovery\obj\Debug\netcoreapp3.1\udp-network-discovery.genruntimeconfig.cache

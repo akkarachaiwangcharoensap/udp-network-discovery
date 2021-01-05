@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "udp-network-discovery", "peer-to-peer-text-communication\udp-network-discovery.csproj", "{BC980017-6999-48D3-A50E-D8945FB6CB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC980017-6999-48D3-A50E-D8945FB6CB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC980017-6999-48D3-A50E-D8945FB6CB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC980017-6999-48D3-A50E-D8945FB6CB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC980017-6999-48D3-A50E-D8945FB6CB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45066F2C-81E8-4FBA-95B9-20C7F0B02E14}
+	EndGlobalSection
+EndGlobal
